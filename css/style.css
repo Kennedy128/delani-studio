@@ -1,35 +1,12 @@
 .studio{
     background: url(../images/assets.jpg);
-    height: 800px;
+    height: 600px;
     text-align: center;
     background-size: contain;
     color: white;
     padding: 285px;
     
-    
-    
-    
-    
-    
-
-    
-
-
-
-
-
-}
-
-
-
-
-
-
-
-    
-    
-
-
+    }
 
 .ken{
     image-resolution: 20px;
@@ -38,6 +15,7 @@
 }
 .personal{
     background: url(../images/c_image.jpg);
+    
     height: 600px;
     text-align: center;
     padding: 140px;
@@ -47,6 +25,17 @@
 }
 .about{
     background: url(../images/computer.jpg);
+    text-align: center;
+    color: white;
 
 
+}
+.approach{
+    text-align: center;
+
+
+
+}
+.margi{
+    margin-right: 200px;
 }
