@@ -1,3 +1,6 @@
+body {
+    text-align: center;
+}
 .studio{
     background: url(../images/assets.jpg);
     height: 600px;
@@ -13,8 +16,10 @@
     border-image-width: 30px;
     padding-right: 20px;
 }
+
 .personal{
     background: url(../images/c_image.jpg);
+    
     
     height: 600px;
     text-align: center;
@@ -25,6 +30,7 @@
 }
 .about{
     background: url(../images/computer.jpg);
+    height: 200px;
     text-align: center;
     color: white;
 
@@ -38,4 +44,11 @@
 }
 .margi{
     margin-right: 200px;
+}
+.imgs{
+
+    align-content: center;
+}
+.obtis{
+    text-align: center;
 }
