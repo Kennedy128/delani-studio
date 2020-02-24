@@ -74,3 +74,64 @@ body {
     font-size: 10px;
 
 }
+.col-md-3 img{
+
+    margin: 20px;
+    width: 100%;
+}
+.create1{
+    display: none;
+    background-color: white;
+    position: absolute;
+    opacity: .7;
+    font-size: 32px;
+    top: 50%;
+    left: 50%;
+    right: 50%;
+    bottom: 50%;
+}
+.create2{
+    display: none;
+    background-color:black;
+    position: absolute;
+    opacity: .7;
+    font-size: 32px;
+    top: 50%;
+    left: 50%;
+    right: 50%;
+    bottom: 50%;
+
+
+
+
+
+}
+.create3{
+    display: none;
+    background-color: white;
+    position: absolute;
+    font-size: 20px;
+    opacity: .6;
+    top: 50%;
+    left: 50%;
+    right: 50%;
+    bottom: 50%;
+
+
+
+
+
+
+}
+.create4{
+    display: none;
+    background-color:navy;
+    position:absolute;
+    font-size: 20px;
+    opacity: .6;
+    top: 30%;
+    left: 20%;
+    right: 30%;
+    bottom: 40%;
+    
+}
