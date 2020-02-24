@@ -81,7 +81,7 @@ body {
 }
 .create1{
     display: none;
-    background-color: white;
+    background-color: navy;
     position: absolute;
     opacity: .7;
     font-size: 32px;
@@ -92,7 +92,7 @@ body {
 }
 .create2{
     display: none;
-    background-color:black;
+    background-color:navy;
     position: absolute;
     opacity: .7;
     font-size: 32px;
@@ -108,7 +108,7 @@ body {
 }
 .create3{
     display: none;
-    background-color: white;
+    background-color: navy;
     position: absolute;
     font-size: 20px;
     opacity: .6;
@@ -182,4 +182,26 @@ body {
     left: 20%;
     right: 30%;
     bottom: 40%;
+}
+#mce-MMERGE2, #name, #mce-Email{
+    background-color: rgba(0,0,0,0) !important);
+
+
+
+}
+
+
+
+
+}
+@media only screen and (max-width:620px){
+
+    body{
+        width:fit-content;
+        height:min-content;
+        display: block;
+    }
+    .what we do{
+        height: fit-content;
+    }
 }
