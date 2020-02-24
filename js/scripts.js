@@ -54,6 +54,26 @@ $(document).ready(function(){
 
 
     })
+    $('#create5 img').hover(function(){
+        $('.create5').toggle();
+
+
+    })
+    $('#create6 img').hover(function(){
+        $('.create6').toggle();
+
+
+    })
+    $('#create7 img').hover(function(){
+        $('.create7').toggle();
+
+
+    })
+    $('#create8 img').hover(function(){
+        $('.create8').toggle();
+
+
+    })
     
 
 
