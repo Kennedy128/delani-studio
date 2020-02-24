@@ -9,8 +9,8 @@ $(document).ready(function(){
 
 
 
-});
-$(document).ready(function(){
+
+
     $(".clickable2").click(function(){
         $(".image2").toggle();
         $(".whydo").toggle();
@@ -19,8 +19,8 @@ $(document).ready(function(){
 
     });
 
-});
-$(document).ready(function(){
+
+
     $(".clickable1").click(function(){
         $(".image1").toggle();
         $(".willdo").toggle();
@@ -28,9 +28,39 @@ $(document).ready(function(){
 
 
 
+    });
+
+
+
+    $('#create1 img').hover(function(){
+        $('.create1').toggle()
+
+
+    });
+
+    $('#create2 img').hover(function(){
+        $('.create2').toggle()
+
+
+    });
+    
+    $('#create3 img').hover(function(){
+        $('#create3').toggle();
+
+
     })
+    $('#create4 img').hover(function(){
+        $('#create4').toggle();
+
+
+    })
+    
 
 
 
+});
 
-})
+
+    
+
+
