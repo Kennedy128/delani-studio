@@ -45,7 +45,7 @@ $(document).ready(function(){
     });
     
     $('#create3 img').hover(function(){
-        $('#create3').toggle();
+        $('.create3').toggle();
 
 
     })
