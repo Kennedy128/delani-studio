@@ -135,3 +135,51 @@ body {
     bottom: 40%;
     
 }
+.create5{
+    display: none;
+    background-color:navy;
+    position:absolute;
+    font-size: 20px;
+    opacity: .6;
+    top: 30%;
+    left: 20%;
+    right: 30%;
+    bottom: 40%;
+
+
+
+
+}
+.create6{
+    display: none;
+    background-color:navy;
+    position:absolute;
+    font-size: 20px;
+    opacity: .6;
+    top: 30%;
+    left: 20%;
+    right: 30%;
+    bottom: 40%;
+}
+.create7{
+    display: none;
+    background-color:navy;
+    position:absolute;
+    font-size: 20px;
+    opacity: .6;
+    top: 30%;
+    left: 20%;
+    right: 30%;
+    bottom: 40%;
+}
+.create8{
+    display: none;
+    background-color:navy;
+    position:absolute;
+    font-size: 20px;
+    opacity: .6;
+    top: 30%;
+    left: 20%;
+    right: 30%;
+    bottom: 40%;
+}
