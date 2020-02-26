@@ -192,7 +192,7 @@ body {
 #mce-MMERGE2{
     width:500px ;
     height: 200px;
-    background-color: none;
+    background-color: rgba(0, 0,0, 0) !important
 }
 
 
