@@ -1,3 +1,7 @@
+function alertMessage(){
+    alert("Thank you for contacting us!");
+};
+
 $(document).ready(function(){
     $(".clickable3").click(function(){
         $(".image3").toggle();
