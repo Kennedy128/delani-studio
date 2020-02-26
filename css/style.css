@@ -183,11 +183,16 @@ body {
     right: 30%;
     bottom: 40%;
 }
-#mce-MMERGE2, #name, #mce-Email{
-    background-color: rgba(0,0,0,0) !important);
+ #mce-EMAIL{
+    background-color: none;
 
 
 
+}
+#mce-MMERGE2{
+    width:500px ;
+    height: 200px;
+    background-color: none;
 }
 
 
@@ -201,6 +206,6 @@ body {
         height:min-content;
         display: block;
     }
-    .what we do{
+    .what-we-do{
         height: fit-content;
     }
